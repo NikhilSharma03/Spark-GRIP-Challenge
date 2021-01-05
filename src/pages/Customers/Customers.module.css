@@ -1,0 +1,55 @@
+.Container {
+  margin: 5rem auto;
+  border-radius: 1rem;
+  padding: 2rem;
+  width: 80%;
+  background-color: white;
+}
+
+.BtnContainer {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+table,
+th,
+td {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  border: 2px solid rgba(75, 75, 75, 0.5);
+  border-collapse: collapse;
+}
+
+table {
+  width: 80%;
+  margin: 2rem auto;
+  margin-top: 3.5rem;
+}
+
+th {
+  text-align: center;
+  color: rgb(87, 30, 36);
+}
+
+td {
+  text-align: center;
+  font-weight: bold;
+  color: #141414;
+}
+
+.VisitCus a {
+  text-decoration: none;
+  color: #d84b65;
+}
+
+@media (max-width: 550px) {
+  table,
+  th,
+  td {
+    padding: 0.25rem;
+    font-size: 1rem;
+    border: 1px solid rgba(75, 75, 75, 0.5);
+    border-collapse: collapse;
+  }
+}

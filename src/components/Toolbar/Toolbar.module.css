@@ -1,0 +1,63 @@
+.Toolbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5rem;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+.MainHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.MainHead img {
+  height: 4.5rem;
+  margin-right: 1rem;
+}
+
+.MainHead_Title {
+  color: #d84b65;
+  font-weight: 5000;
+  font-size: 2.25rem;
+}
+
+.MainHead_Title label {
+  color: #571e24;
+}
+
+.SDMenu {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .Nav {
+    display: none;
+  }
+  .SDMenu {
+    display: flex;
+  }
+}
+
+.SDMenu svg {
+  height: 5rem;
+  padding: 0.5rem 0;
+  fill: black;
+}
+
+@media (max-width: 1000px) {
+  .Toolbar {
+    justify-content: space-between;
+  }
+  .MainHead {
+    margin-left: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .Toolbar {
+    padding: 0 0;
+  }
+}

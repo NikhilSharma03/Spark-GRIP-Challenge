@@ -1,0 +1,21 @@
+.List {
+  font-size: 1.25rem;
+  padding: 1.25rem;
+  transition: all 0.4s;
+}
+
+.List a {
+  font-size: 1.5rem;
+  display: block;
+  color: #47161b;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0.75rem;
+  transition: all 0.3s;
+  border: 2px solid #e45;
+  border-radius: 1rem;
+}
+
+.List a:hover {
+  transform: scale(1.1);
+}

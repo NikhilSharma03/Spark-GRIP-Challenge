@@ -1,0 +1,43 @@
+.Home {
+  display: flex;
+  width: 100%;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.Container {
+  background-color: white;
+  padding: 4rem 5rem;
+  border-radius: 1rem;
+}
+
+.Container h1 {
+  font-size: 3rem;
+  color: #141414;
+  margin-bottom: 2rem;
+}
+
+.Container label {
+  display: block;
+  margin-top: 3rem;
+}
+
+.Container a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 1rem;
+  background-color: #d84b65;
+  font-size: 1.5rem;
+  color: white;
+  border: 2px solid #d84b65;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  transition: all 0.4s;
+}
+
+.Container a:hover {
+  background-color: white;
+  color: #d84b65;
+}
