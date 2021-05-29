@@ -1,6 +1,7 @@
 ## Description
 
-The Spark Foundation Task I - Banking System.
+### The Spark Foundation Task I - Banking System.
+
 This repo was created for the task given in the The Spark Foundation GRIP Program.
 
 - A header section with the logo.
