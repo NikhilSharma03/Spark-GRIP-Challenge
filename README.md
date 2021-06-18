@@ -2,7 +2,7 @@
 
 ### The Spark Foundation Task I - Banking System.
 
-This repo was created for the task given in the The Spark Foundation GRIP Program.
+The code for the task of the The Spark Foundation GRIP Program.
 
 - A header section with the logo.
 - Support exchange money with email.
