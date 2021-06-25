@@ -2,7 +2,7 @@
 
 ### The Spark Foundation Task I - Banking System.
 
-The code for the task of the The Spark Foundation GRIP Program.
+The project for the task of the The Spark Foundation GRIP Program.
 
 - A header section with the logo.
 - Support exchange money with email.
