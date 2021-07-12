@@ -34,5 +34,5 @@ npm start
 
 - ReactJS
 - Redux
-- Firebase
+- Firebase Realtime Storage
 - CSS
