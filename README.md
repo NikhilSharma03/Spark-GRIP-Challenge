@@ -32,7 +32,7 @@ npm start
 
 ## Built With
 
-- ReactJs
+- ReactJS
 - Redux
 - Firebase
 - CSS
