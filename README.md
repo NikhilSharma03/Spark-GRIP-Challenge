@@ -13,7 +13,7 @@
 The project for the task of the The Spark Foundation GRIP Program.
 
 - A header section with the logo.
-- Support exchange money with email.
+- Support money transfer with email.
 
 ## Demo
 
